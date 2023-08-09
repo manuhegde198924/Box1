@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    padding:10vh;
+}
+
+
+.frame{
+    height:65vh;
+    width:55vw;
+    margin:30px;
+    border:3px solid black;
+    padding:10px;
+}
+
+
+.box1{
+    margin: 30px 0px;
+    border:3px solid black;
+    font-weight: bolder;
+    font-size:2em;
+    padding-left:10px;
+}
+
+
+.box2{
+    margin: 30px 0px;
+    border:3px solid black;
+    line-height: 20px;
+    font-size:1em;
+    padding:11px;
+}
+
+
+.box3{
+    border:3px solid black;
+    padding:10px;
+}
+li{
+    border:3px solid rgb(220, 27, 27);
+    font-size:1em;
+    padding:8px;
+}
+
+
+.box44{
+    margin-top: 18px;
+}
+input{
+    border:3px solid rgb(230, 30, 30);
+    padding:10px;
+    font-size:0.80em;
+}
+a{
+    border:3px solid red;
+    padding:10px;
+    color:rgb(13, 16, 177);
+}
+p{
+    font-size:1.2em;
+}
